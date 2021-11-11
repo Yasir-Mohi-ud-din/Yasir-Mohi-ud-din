@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Asalamu Alaikum. I'm Yasir Mohi ud din</h1> <hr>
+<h1 align='center'>👋 Asalam u Alaikum. I'm Yasir Mohi ud din</h1> <hr>
 <h3 align='center'> I'm student of Information Technology from NIT Srinagar</h3><hr>
 <h4 align='center'>🌱currently I'm learning</h4>
 <p align='center'>
