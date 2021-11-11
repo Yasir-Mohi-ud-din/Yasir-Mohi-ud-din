@@ -1,8 +1,9 @@
 <h1 align='center'>👋 Asalamu Alaikum. I'm Yasir Mohi ud din</h1> <hr>
-<p align='center'> I'm student of Information Technology from NIT Srinagar
-<br>🌱currently I'm learning
- <br>⏺ Data structures and Algorithms 
-<br>⏺Web development  </p>  <hr>
+<h3 align='center'> I'm student of Information Technology from NIT Srinagar</h3><hr>
+<h4 align='center'>🌱currently I'm learning</h4>
+<p align='center'>
+ ⚪Data structures and Algorithms 
+<br>       ⚪Web  development  </p>  <hr>
 
 <h3 style = "color : black" align='center'>Connect  me ⬇</h3>
 <p align='center'>
