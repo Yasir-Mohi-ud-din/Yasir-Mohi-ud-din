@@ -8,7 +8,7 @@
  ⚪Data structures and Algorithms 
 <br>       ⚪Web  development  </p>  <hr>
 
-<h3 style = "color : black" align='center'>Connect  me ⬇</h3>
+<h3 style = "color : black" align='center'>Connect with  me ⬇</h3>
 <p align='center'>
   <a href='https://www.linkedin.com/in/yasir-mohi-ud-din-a305b4202 '><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   &nbsp;&nbsp;
