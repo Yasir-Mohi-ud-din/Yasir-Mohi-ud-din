@@ -1,4 +1,7 @@
-<h1 align='center'>👋 Asalam u Alaikum. I'm Yasir Mohi ud din</h1> <hr>
+<doctype HTML>
+ <html>
+ <body>
+<h1 align='center'>👋 Asalam u Alaikum. I'm Yasir Mohi ud din</h1> 
 <h3 align='center'> I'm student of Information Technology from NIT Srinagar</h3><hr>
 <h4 align='center'>🌱currently I'm learning</h4>
 <p align='center'>
@@ -41,5 +44,5 @@
   <a href='#'><img src='https://img.shields.io/badge/ICs-green?style=flat-square'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Sensors-green?style=flat-square'/></a>
 </p>
-
-<hr>
+ </body>
+ </html>
